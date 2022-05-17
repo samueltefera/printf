@@ -18,4 +18,4 @@ No known bugs, does not implement all qualities of stdio printf, however.
 Implement width, percision, length specifiers for integers, and the other flags '-' & '0'
 .SH AUTHOR
 Samuel Tefera (samueltefer23@gmail.com) 
-Mozamane Baloyi (mozamane.baloyi@holbertonschool.co.za).
+Hanna Abera (hannatesfaye11@gmail.com)
