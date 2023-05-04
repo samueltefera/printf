@@ -1,6 +1,5 @@
 #include <stdlib.h>
 #include "main.h"
-
 /**
  * _strlen - gets length of string, not including null byte
  * @str: string to get length of
